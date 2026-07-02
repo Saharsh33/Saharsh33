@@ -39,10 +39,6 @@ Currently exploring new projects and open to collaborations. Would love to conne
 
 <br>
 
-## 🧠 Core Fundamentals
-
-`Data Structures & Algorithms` · `Object-Oriented Programming` · `Low-Level Design (LLD)` · `High-Level Design (HLD)` · `Machine Learning`
-
 ## 📊 My Contribution Graph
 
 <!--
